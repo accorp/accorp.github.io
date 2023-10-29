@@ -12,20 +12,20 @@ section {
 }
 
 body {
-  font-family: 'montserrat', 'Times New Roman', Times, serif;
+  font-family: "montserrat", "Times New Roman", Times, serif;
   font-variant: normal;
   font-size: medium;
 }
 h1 {
-  font-family: Impact, 'Arial Narrow Bold', sans-serif;
+  font-family: Impact, "Arial Narrow Bold", sans-serif;
   font-weight: bolder;
   font-variant: small-caps;
 }
 h2 {
-  font-family: Impact, 'Arial Narrow Bold', sans-serif;
+  font-family: Impact, "Arial Narrow Bold", sans-serif;
   font-weight: bolder;
   font-variant: small-caps;
 }
 p {
-  font-family: 'montserrat', 'Times New Roman', Times, serif, arial;
+  font-family: "montserrat", "Times New Roman", Times, serif, arial;
 }
